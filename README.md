@@ -97,12 +97,24 @@ Quina adreça MAC té el gateway de la xarxa? Quin és el fabricant de la seva N
 
 1.Al protocol ARP: Pots saber quina adreça MAC té l'equip amb adreça 192.168.1.1? Fes un filtre per a veure només els paquets d'aquesta adreça del protocol ARP.
 
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
+
 
 ---
 
 2.A la sessió FTP:
 
 Quin és el password de l'usuari que inicia sessió? Quin nom té el fitxer que es descarrega del servidor?
+
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
 
 ---
 
@@ -111,6 +123,14 @@ Quin és el password de l'usuari que inicia sessió? Quin nom té el fitxer que 
 Pots veure el que veia l'usuari en connectar al telnet? Explica què és. Quins caràcters composen la nau espacial petita (posar com a resposta)?
 A quin domini pertany l'adreça on ens connectem?
 
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
+
 ---
 
 4.A la sessió SSH:
@@ -118,10 +138,31 @@ A quin domini pertany l'adreça on ens connectem?
 Pots saber a quin domini pertany l'adreça del servidor?
 Pots veure el contingut de les dades de la sessió? Enganxa les dades que conté el paquet ssh de longitud total 326 bytes.
 
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
+
 ---
 
 5.Correu electrònic:
 
 Ara carrega l'arxiu "captura2.pcapng" que també teniu al repositori, troba el missatge que s’ha enviat amb el protocol de correu sortint. Extreu el fitxer.
+
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura1.png)
+
 
 ----------------
