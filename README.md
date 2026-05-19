@@ -37,11 +37,11 @@ Obre una consola i executa un ping a algun servei o al router de l'escola. Deixa
 
 Atura la captura de paquets. Veuràs que s'ha capturat un munt de paquets, sense discriminar, però només volem veure els que fan referència al ping que hem fet.
 
-![coneixent](img/captura3.png)
+![coneixent](img/captura7.png)
 
 
 
-![coneixent](img/captura3.png)
+![coneixent](img/captura8.png)
 
 
 
@@ -49,16 +49,16 @@ Atura la captura de paquets. Veuràs que s'ha capturat un munt de paquets, sense
 
 Quin número de tipus de ICMP té la petició d'eco i quin la resposta d'eco? Com ho veus?.Incorpoar una captura de pantalla on es vegi el tipus de ICMP.
 
-![coneixent](img/captura3.png)
+![coneixent](img/captura9.png)
 
 
-![coneixent](img/captura3.png)
+![coneixent](img/captura10.png)
 
 
-![coneixent](img/captura3.png)
+![coneixent](img/captura11.png)
 
 
-![coneixent](img/captura3.png)
+![coneixent](img/captura12.png)
 
 
 Fes una captura de trànsit, mentre navegues des de la màquina física. Quin trànsit pots veure relacionat amb el teu PC?
@@ -71,10 +71,10 @@ Centreu l'atenció en el protocol DNS posant un filtre de visualització (protoc
 
 Comproveu que la resposta del servidor conté l'adreça IP de www.xtec.cat (comproveu amb la comanda nslookup quina és).
 
-![coneixent](img/captura3.png)
+![coneixent](img/captura13.png)
 
 
-![coneixent](img/captura3.png)
+![coneixent](img/captura14.png)
 
 
 ---
@@ -86,7 +86,7 @@ Ara mirarem el protocol ARP, que serveix als nostres equips per demanar per broa
 Quina adreça MAC té el gateway de la xarxa? Quin és el fabricant de la seva NIC?
 
 
-![coneixent](img/captura3.png)
+![coneixent](img/captura15.png)
 
 
 ---
@@ -97,11 +97,11 @@ Quina adreça MAC té el gateway de la xarxa? Quin és el fabricant de la seva N
 
 1.Al protocol ARP: Pots saber quina adreça MAC té l'equip amb adreça 192.168.1.1? Fes un filtre per a veure només els paquets d'aquesta adreça del protocol ARP.
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura16.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura17.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura18.png)
 
 
 ---
@@ -110,11 +110,11 @@ Quina adreça MAC té el gateway de la xarxa? Quin és el fabricant de la seva N
 
 Quin és el password de l'usuari que inicia sessió? Quin nom té el fitxer que es descarrega del servidor?
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura19.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura20.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura21.png)
 
 ---
 
@@ -123,13 +123,13 @@ Quin és el password de l'usuari que inicia sessió? Quin nom té el fitxer que 
 Pots veure el que veia l'usuari en connectar al telnet? Explica què és. Quins caràcters composen la nau espacial petita (posar com a resposta)?
 A quin domini pertany l'adreça on ens connectem?
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura22.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura23.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura24.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura25.png)
 
 ---
 
@@ -138,15 +138,15 @@ A quin domini pertany l'adreça on ens connectem?
 Pots saber a quin domini pertany l'adreça del servidor?
 Pots veure el contingut de les dades de la sessió? Enganxa les dades que conté el paquet ssh de longitud total 326 bytes.
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura26.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura27.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura28.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura29.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura30.png)
 
 ---
 
@@ -154,15 +154,15 @@ Pots veure el contingut de les dades de la sessió? Enganxa les dades que conté
 
 Ara carrega l'arxiu "captura2.pcapng" que també teniu al repositori, troba el missatge que s’ha enviat amb el protocol de correu sortint. Extreu el fitxer.
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura31.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura32.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura33.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura34.png)
 
-![coneixent](img/captura1.png)
+![coneixent](img/captura35.png)
 
 
 ----------------
