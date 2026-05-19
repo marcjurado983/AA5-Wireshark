@@ -11,3 +11,13 @@ Posa en marxa la captura de paquets de Wireshark sobre la targeta de xarxa del t
 - Porta d'enllaç: 192.168.2.254
 - DNS: 8.8.8.8
 
+![coneixent](img/captura1.png)
+
+![coneixent](img/captura2.png)
+
+![coneixent](img/captura3.png)
+
+
+---
+
+
