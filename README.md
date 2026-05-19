@@ -1,6 +1,6 @@
 # AA5-Wireshark
 
-# ICMP
+## ICMP
 
 Kali ja té instal·lat Wireshark. Si esteu utilitzant un Ubuntu Desktop, instal·la i configura Wireshark.
 
